@@ -1,0 +1,641 @@
+ID,age,gender,English,condition,voice,motion,character,answerPleasant,answerHumanlike
+1,20,Female,Fluent,NId_TTS,TTS,NId,Human,3,2
+1,20,Female,Fluent,NId_TTS,TTS,NId,Human,2,3
+1,20,Female,Fluent,NId_Voice,Voice,NId,Human,6,5
+1,20,Female,Fluent,NId_Voice,Voice,NId,Human,4,5
+1,20,Female,Fluent,RL_TTS,TTS,RL,Human,3,2
+1,20,Female,Fluent,RL_TTS,TTS,RL,Human,4,3
+1,20,Female,Fluent,RL_Voice,Voice,RL,Human,3,2
+1,20,Female,Fluent,RL_Voice,Voice,RL,Human,5,5
+1,20,Female,Fluent,RN_TTS,TTS,RN,Human,2,2
+1,20,Female,Fluent,RN_TTS,TTS,RN,Human,2,2
+1,20,Female,Fluent,RN_Voice,Voice,RN,Human,6,6
+1,20,Female,Fluent,RN_Voice,Voice,RN,Human,5,3
+1,20,Female,Fluent,NMo_TTS,TTS,NMo,Human,4,2
+1,20,Female,Fluent,NMo_TTS,TTS,NMo,Human,4,5
+1,20,Female,Fluent,NMo_Voice,Voice,NMo,Human,5,5
+1,20,Female,Fluent,NMo_Voice,Voice,NMo,Human,5,6
+1,20,Female,Fluent,NId_TTS_Kyle,TTS,NId,Robot,3,2
+1,20,Female,Fluent,NId_TTS_Kyle,TTS,NId,Robot,2,3
+1,20,Female,Fluent,NId_Voice_Kyle,Voice,NId,Robot,4,3
+1,20,Female,Fluent,NId_Voice_Kyle,Voice,NId,Robot,5,4
+1,20,Female,Fluent,RL_TTS_Kyle,TTS,RL,Robot,4,3
+1,20,Female,Fluent,RL_TTS_Kyle,TTS,RL,Robot,3,1
+1,20,Female,Fluent,RL_Voice_Kyle,Voice,RL,Robot,6,4
+1,20,Female,Fluent,RL_Voice_Kyle,Voice,RL,Robot,4,3
+1,20,Female,Fluent,RN_TTS_Kyle,TTS,RN,Robot,3,2
+1,20,Female,Fluent,RN_TTS_Kyle,TTS,RN,Robot,4,3
+1,20,Female,Fluent,RN_Voice_Kyle,Voice,RN,Robot,5,6
+1,20,Female,Fluent,RN_Voice_Kyle,Voice,RN,Robot,5,4
+1,20,Female,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,3,3
+1,20,Female,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,4,3
+1,20,Female,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,7,7
+1,20,Female,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,7,7
+2,24,Female,Good,NId_TTS,TTS,NId,Human,1,1
+2,24,Female,Good,NId_TTS,TTS,NId,Human,1,2
+2,24,Female,Good,NId_Voice,Voice,NId,Human,6,6
+2,24,Female,Good,NId_Voice,Voice,NId,Human,6,7
+2,24,Female,Good,RL_TTS,TTS,RL,Human,2,1
+2,24,Female,Good,RL_TTS,TTS,RL,Human,1,1
+2,24,Female,Good,RL_Voice,Voice,RL,Human,5,6
+2,24,Female,Good,RL_Voice,Voice,RL,Human,6,5
+2,24,Female,Good,RN_TTS,TTS,RN,Human,2,1
+2,24,Female,Good,RN_TTS,TTS,RN,Human,1,1
+2,24,Female,Good,RN_Voice,Voice,RN,Human,5,6
+2,24,Female,Good,RN_Voice,Voice,RN,Human,6,7
+2,24,Female,Good,NMo_TTS,TTS,NMo,Human,1,1
+2,24,Female,Good,NMo_TTS,TTS,NMo,Human,3,2
+2,24,Female,Good,NMo_Voice,Voice,NMo,Human,7,7
+2,24,Female,Good,NMo_Voice,Voice,NMo,Human,6,7
+2,24,Female,Good,NId_TTS_Kyle,TTS,NId,Robot,1,1
+2,24,Female,Good,NId_TTS_Kyle,TTS,NId,Robot,1,1
+2,24,Female,Good,NId_Voice_Kyle,Voice,NId,Robot,5,5
+2,24,Female,Good,NId_Voice_Kyle,Voice,NId,Robot,3,3
+2,24,Female,Good,RL_TTS_Kyle,TTS,RL,Robot,1,1
+2,24,Female,Good,RL_TTS_Kyle,TTS,RL,Robot,1,1
+2,24,Female,Good,RL_Voice_Kyle,Voice,RL,Robot,5,3
+2,24,Female,Good,RL_Voice_Kyle,Voice,RL,Robot,5,3
+2,24,Female,Good,RN_TTS_Kyle,TTS,RN,Robot,1,1
+2,24,Female,Good,RN_TTS_Kyle,TTS,RN,Robot,4,3
+2,24,Female,Good,RN_Voice_Kyle,Voice,RN,Robot,4,3
+2,24,Female,Good,RN_Voice_Kyle,Voice,RN,Robot,3,3
+2,24,Female,Good,NMo_TTS_Kyle,TTS,NMo,Robot,2,1
+2,24,Female,Good,NMo_TTS_Kyle,TTS,NMo,Robot,2,3
+2,24,Female,Good,NMo_Voice_Kyle,Voice,NMo,Robot,4,3
+2,24,Female,Good,NMo_Voice_Kyle,Voice,NMo,Robot,3,2
+3,21,Female,Very good,NId_TTS,TTS,NId,Human,3,4
+3,21,Female,Very good,NId_TTS,TTS,NId,Human,3,4
+3,21,Female,Very good,NId_Voice,Voice,NId,Human,4,4
+3,21,Female,Very good,NId_Voice,Voice,NId,Human,3,4
+3,21,Female,Very good,RL_TTS,TTS,RL,Human,4,4
+3,21,Female,Very good,RL_TTS,TTS,RL,Human,4,4
+3,21,Female,Very good,RL_Voice,Voice,RL,Human,3,4
+3,21,Female,Very good,RL_Voice,Voice,RL,Human,4,4
+3,21,Female,Very good,RN_TTS,TTS,RN,Human,3,4
+3,21,Female,Very good,RN_TTS,TTS,RN,Human,5,4
+3,21,Female,Very good,RN_Voice,Voice,RN,Human,2,4
+3,21,Female,Very good,RN_Voice,Voice,RN,Human,3,4
+3,21,Female,Very good,NMo_TTS,TTS,NMo,Human,4,4
+3,21,Female,Very good,NMo_TTS,TTS,NMo,Human,2,4
+3,21,Female,Very good,NMo_Voice,Voice,NMo,Human,5,4
+3,21,Female,Very good,NMo_Voice,Voice,NMo,Human,3,4
+3,21,Female,Very good,NId_TTS_Kyle,TTS,NId,Robot,4,1
+3,21,Female,Very good,NId_TTS_Kyle,TTS,NId,Robot,4,4
+3,21,Female,Very good,NId_Voice_Kyle,Voice,NId,Robot,4,1
+3,21,Female,Very good,NId_Voice_Kyle,Voice,NId,Robot,4,1
+3,21,Female,Very good,RL_TTS_Kyle,TTS,RL,Robot,3,1
+3,21,Female,Very good,RL_TTS_Kyle,TTS,RL,Robot,3,1
+3,21,Female,Very good,RL_Voice_Kyle,Voice,RL,Robot,2,1
+3,21,Female,Very good,RL_Voice_Kyle,Voice,RL,Robot,3,1
+3,21,Female,Very good,RN_TTS_Kyle,TTS,RN,Robot,4,1
+3,21,Female,Very good,RN_TTS_Kyle,TTS,RN,Robot,4,1
+3,21,Female,Very good,RN_Voice_Kyle,Voice,RN,Robot,3,1
+3,21,Female,Very good,RN_Voice_Kyle,Voice,RN,Robot,4,1
+3,21,Female,Very good,NMo_TTS_Kyle,TTS,NMo,Robot,4,1
+3,21,Female,Very good,NMo_TTS_Kyle,TTS,NMo,Robot,3,1
+3,21,Female,Very good,NMo_Voice_Kyle,Voice,NMo,Robot,4,1
+3,21,Female,Very good,NMo_Voice_Kyle,Voice,NMo,Robot,3,1
+4,18,Male,Fluent,NId_TTS,TTS,NId,Human,4,5
+4,18,Male,Fluent,NId_TTS,TTS,NId,Human,3,3
+4,18,Male,Fluent,NId_Voice,Voice,NId,Human,5,6
+4,18,Male,Fluent,NId_Voice,Voice,NId,Human,5,6
+4,18,Male,Fluent,RL_TTS,TTS,RL,Human,3,1
+4,18,Male,Fluent,RL_TTS,TTS,RL,Human,6,5
+4,18,Male,Fluent,RL_Voice,Voice,RL,Human,3,2
+4,18,Male,Fluent,RL_Voice,Voice,RL,Human,5,5
+4,18,Male,Fluent,RN_TTS,TTS,RN,Human,4,2
+4,18,Male,Fluent,RN_TTS,TTS,RN,Human,4,5
+4,18,Male,Fluent,RN_Voice,Voice,RN,Human,5,6
+4,18,Male,Fluent,RN_Voice,Voice,RN,Human,5,7
+4,18,Male,Fluent,NMo_TTS,TTS,NMo,Human,6,3
+4,18,Male,Fluent,NMo_TTS,TTS,NMo,Human,5,4
+4,18,Male,Fluent,NMo_Voice,Voice,NMo,Human,5,5
+4,18,Male,Fluent,NMo_Voice,Voice,NMo,Human,6,7
+4,18,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,3,2
+4,18,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,5,5
+4,18,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,5,5
+4,18,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,3,5
+4,18,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,3,3
+4,18,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,2,1
+4,18,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,1
+4,18,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,5,4
+4,18,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,3,2
+4,18,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,2,2
+4,18,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,5,6
+4,18,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,4,3
+4,18,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,5,6
+4,18,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,5,3
+4,18,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,5,6
+4,18,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,4,6
+5,34,Unanswered,Native Speaker,NId_TTS,TTS,NId,Human,4,2
+5,34,Unanswered,Native Speaker,NId_TTS,TTS,NId,Human,4,4
+5,34,Unanswered,Native Speaker,NId_Voice,Voice,NId,Human,5,6
+5,34,Unanswered,Native Speaker,NId_Voice,Voice,NId,Human,5,6
+5,34,Unanswered,Native Speaker,RL_TTS,TTS,RL,Human,5,3
+5,34,Unanswered,Native Speaker,RL_TTS,TTS,RL,Human,4,3
+5,34,Unanswered,Native Speaker,RL_Voice,Voice,RL,Human,5,2
+5,34,Unanswered,Native Speaker,RL_Voice,Voice,RL,Human,4,3
+5,34,Unanswered,Native Speaker,RN_TTS,TTS,RN,Human,4,4
+5,34,Unanswered,Native Speaker,RN_TTS,TTS,RN,Human,4,3
+5,34,Unanswered,Native Speaker,RN_Voice,Voice,RN,Human,4,3
+5,34,Unanswered,Native Speaker,RN_Voice,Voice,RN,Human,5,5
+5,34,Unanswered,Native Speaker,NMo_TTS,TTS,NMo,Human,4,2
+5,34,Unanswered,Native Speaker,NMo_TTS,TTS,NMo,Human,3,3
+5,34,Unanswered,Native Speaker,NMo_Voice,Voice,NMo,Human,5,6
+5,34,Unanswered,Native Speaker,NMo_Voice,Voice,NMo,Human,5,6
+5,34,Unanswered,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,4,3
+5,34,Unanswered,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,4,3
+5,34,Unanswered,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,4,5
+5,34,Unanswered,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,5,6
+5,34,Unanswered,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,4,3
+5,34,Unanswered,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,4,4
+5,34,Unanswered,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,4,5
+5,34,Unanswered,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,4,2
+5,34,Unanswered,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,5,5
+5,34,Unanswered,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,4,5
+5,34,Unanswered,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,4,3
+5,34,Unanswered,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,4,4
+5,34,Unanswered,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,4,5
+5,34,Unanswered,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,3,6
+5,34,Unanswered,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,4,5
+5,34,Unanswered,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,3,4
+6,40,Male,Native Speaker,NId_TTS,TTS,NId,Human,3,2
+6,40,Male,Native Speaker,NId_TTS,TTS,NId,Human,5,3
+6,40,Male,Native Speaker,NId_Voice,Voice,NId,Human,6,6
+6,40,Male,Native Speaker,NId_Voice,Voice,NId,Human,6,5
+6,40,Male,Native Speaker,RL_TTS,TTS,RL,Human,3,2
+6,40,Male,Native Speaker,RL_TTS,TTS,RL,Human,3,3
+6,40,Male,Native Speaker,RL_Voice,Voice,RL,Human,4,3
+6,40,Male,Native Speaker,RL_Voice,Voice,RL,Human,5,3
+6,40,Male,Native Speaker,RN_TTS,TTS,RN,Human,4,2
+6,40,Male,Native Speaker,RN_TTS,TTS,RN,Human,5,3
+6,40,Male,Native Speaker,RN_Voice,Voice,RN,Human,5,6
+6,40,Male,Native Speaker,RN_Voice,Voice,RN,Human,5,3
+6,40,Male,Native Speaker,NMo_TTS,TTS,NMo,Human,3,2
+6,40,Male,Native Speaker,NMo_TTS,TTS,NMo,Human,3,2
+6,40,Male,Native Speaker,NMo_Voice,Voice,NMo,Human,6,6
+6,40,Male,Native Speaker,NMo_Voice,Voice,NMo,Human,6,7
+6,40,Male,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,3,1
+6,40,Male,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,6,6
+6,40,Male,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,6,6
+6,40,Male,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,6,5
+6,40,Male,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,3,1
+6,40,Male,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,5,3
+6,40,Male,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,5,3
+6,40,Male,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,5,2
+6,40,Male,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,5,3
+6,40,Male,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,2,1
+6,40,Male,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,4,4
+6,40,Male,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,5,5
+6,40,Male,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,5,6
+6,40,Male,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,6,5
+6,40,Male,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,7,7
+6,40,Male,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,7,7
+7,26,Female,Very good,NId_TTS,TTS,NId,Human,2,2
+7,26,Female,Very good,NId_TTS,TTS,NId,Human,3,2
+7,26,Female,Very good,NId_Voice,Voice,NId,Human,5,3
+7,26,Female,Very good,NId_Voice,Voice,NId,Human,3,4
+7,26,Female,Very good,RL_TTS,TTS,RL,Human,1,1
+7,26,Female,Very good,RL_TTS,TTS,RL,Human,3,2
+7,26,Female,Very good,RL_Voice,Voice,RL,Human,3,2
+7,26,Female,Very good,RL_Voice,Voice,RL,Human,3,2
+7,26,Female,Very good,RN_TTS,TTS,RN,Human,3,2
+7,26,Female,Very good,RN_TTS,TTS,RN,Human,3,2
+7,26,Female,Very good,RN_Voice,Voice,RN,Human,3,2
+7,26,Female,Very good,RN_Voice,Voice,RN,Human,4,3
+7,26,Female,Very good,NMo_TTS,TTS,NMo,Human,5,2
+7,26,Female,Very good,NMo_TTS,TTS,NMo,Human,4,5
+7,26,Female,Very good,NMo_Voice,Voice,NMo,Human,7,7
+7,26,Female,Very good,NMo_Voice,Voice,NMo,Human,5,5
+7,26,Female,Very good,NId_TTS_Kyle,TTS,NId,Robot,2,2
+7,26,Female,Very good,NId_TTS_Kyle,TTS,NId,Robot,4,4
+7,26,Female,Very good,NId_Voice_Kyle,Voice,NId,Robot,5,3
+7,26,Female,Very good,NId_Voice_Kyle,Voice,NId,Robot,6,5
+7,26,Female,Very good,RL_TTS_Kyle,TTS,RL,Robot,5,2
+7,26,Female,Very good,RL_TTS_Kyle,TTS,RL,Robot,5,2
+7,26,Female,Very good,RL_Voice_Kyle,Voice,RL,Robot,3,2
+7,26,Female,Very good,RL_Voice_Kyle,Voice,RL,Robot,4,1
+7,26,Female,Very good,RN_TTS_Kyle,TTS,RN,Robot,2,2
+7,26,Female,Very good,RN_TTS_Kyle,TTS,RN,Robot,4,3
+7,26,Female,Very good,RN_Voice_Kyle,Voice,RN,Robot,5,2
+7,26,Female,Very good,RN_Voice_Kyle,Voice,RN,Robot,5,3
+7,26,Female,Very good,NMo_TTS_Kyle,TTS,NMo,Robot,6,6
+7,26,Female,Very good,NMo_TTS_Kyle,TTS,NMo,Robot,6,6
+7,26,Female,Very good,NMo_Voice_Kyle,Voice,NMo,Robot,6,6
+7,26,Female,Very good,NMo_Voice_Kyle,Voice,NMo,Robot,6,6
+8,21,Male,Fluent,NId_TTS,TTS,NId,Human,2,2
+8,21,Male,Fluent,NId_TTS,TTS,NId,Human,3,2
+8,21,Male,Fluent,NId_Voice,Voice,NId,Human,4,5
+8,21,Male,Fluent,NId_Voice,Voice,NId,Human,3,2
+8,21,Male,Fluent,RL_TTS,TTS,RL,Human,3,5
+8,21,Male,Fluent,RL_TTS,TTS,RL,Human,3,2
+8,21,Male,Fluent,RL_Voice,Voice,RL,Human,2,1
+8,21,Male,Fluent,RL_Voice,Voice,RL,Human,3,3
+8,21,Male,Fluent,RN_TTS,TTS,RN,Human,2,3
+8,21,Male,Fluent,RN_TTS,TTS,RN,Human,4,5
+8,21,Male,Fluent,RN_Voice,Voice,RN,Human,3,2
+8,21,Male,Fluent,RN_Voice,Voice,RN,Human,2,3
+8,21,Male,Fluent,NMo_TTS,TTS,NMo,Human,3,5
+8,21,Male,Fluent,NMo_TTS,TTS,NMo,Human,6,7
+8,21,Male,Fluent,NMo_Voice,Voice,NMo,Human,5,6
+8,21,Male,Fluent,NMo_Voice,Voice,NMo,Human,6,7
+8,21,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,5,6
+8,21,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,5,3
+8,21,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,6,6
+8,21,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,3,3
+8,21,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,3,2
+8,21,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,3,1
+8,21,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,3
+8,21,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,4,3
+8,21,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,5,6
+8,21,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,4,5
+8,21,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,5,6
+8,21,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,5,6
+8,21,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,6,6
+8,21,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,7,7
+8,21,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,7,7
+8,21,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,6,7
+9,20,Female,Fluent,NId_TTS,TTS,NId,Human,1,1
+9,20,Female,Fluent,NId_TTS,TTS,NId,Human,1,1
+9,20,Female,Fluent,NId_Voice,Voice,NId,Human,2,2
+9,20,Female,Fluent,NId_Voice,Voice,NId,Human,3,3
+9,20,Female,Fluent,RL_TTS,TTS,RL,Human,3,2
+9,20,Female,Fluent,RL_TTS,TTS,RL,Human,1,1
+9,20,Female,Fluent,RL_Voice,Voice,RL,Human,2,1
+9,20,Female,Fluent,RL_Voice,Voice,RL,Human,2,2
+9,20,Female,Fluent,RN_TTS,TTS,RN,Human,2,1
+9,20,Female,Fluent,RN_TTS,TTS,RN,Human,2,1
+9,20,Female,Fluent,RN_Voice,Voice,RN,Human,2,2
+9,20,Female,Fluent,RN_Voice,Voice,RN,Human,2,2
+9,20,Female,Fluent,NMo_TTS,TTS,NMo,Human,4,3
+9,20,Female,Fluent,NMo_TTS,TTS,NMo,Human,3,4
+9,20,Female,Fluent,NMo_Voice,Voice,NMo,Human,3,5
+9,20,Female,Fluent,NMo_Voice,Voice,NMo,Human,3,5
+9,20,Female,Fluent,NId_TTS_Kyle,TTS,NId,Robot,4,3
+9,20,Female,Fluent,NId_TTS_Kyle,TTS,NId,Robot,3,3
+9,20,Female,Fluent,NId_Voice_Kyle,Voice,NId,Robot,4,5
+9,20,Female,Fluent,NId_Voice_Kyle,Voice,NId,Robot,3,4
+9,20,Female,Fluent,RL_TTS_Kyle,TTS,RL,Robot,1,1
+9,20,Female,Fluent,RL_TTS_Kyle,TTS,RL,Robot,2,1
+9,20,Female,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,2
+9,20,Female,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,2
+9,20,Female,Fluent,RN_TTS_Kyle,TTS,RN,Robot,2,2
+9,20,Female,Fluent,RN_TTS_Kyle,TTS,RN,Robot,1,1
+9,20,Female,Fluent,RN_Voice_Kyle,Voice,RN,Robot,3,2
+9,20,Female,Fluent,RN_Voice_Kyle,Voice,RN,Robot,3,2
+9,20,Female,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,1,3
+9,20,Female,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,2,5
+9,20,Female,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,4,5
+9,20,Female,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,3,4
+10,26,Female,Native Speaker,NId_TTS,TTS,NId,Human,2,2
+10,26,Female,Native Speaker,NId_TTS,TTS,NId,Human,1,2
+10,26,Female,Native Speaker,NId_Voice,Voice,NId,Human,6,6
+10,26,Female,Native Speaker,NId_Voice,Voice,NId,Human,7,6
+10,26,Female,Native Speaker,RL_TTS,TTS,RL,Human,2,2
+10,26,Female,Native Speaker,RL_TTS,TTS,RL,Human,2,1
+10,26,Female,Native Speaker,RL_Voice,Voice,RL,Human,6,5
+10,26,Female,Native Speaker,RL_Voice,Voice,RL,Human,2,2
+10,26,Female,Native Speaker,RN_TTS,TTS,RN,Human,3,3
+10,26,Female,Native Speaker,RN_TTS,TTS,RN,Human,3,3
+10,26,Female,Native Speaker,RN_Voice,Voice,RN,Human,3,3
+10,26,Female,Native Speaker,RN_Voice,Voice,RN,Human,4,4
+10,26,Female,Native Speaker,NMo_TTS,TTS,NMo,Human,3,2
+10,26,Female,Native Speaker,NMo_TTS,TTS,NMo,Human,3,1
+10,26,Female,Native Speaker,NMo_Voice,Voice,NMo,Human,7,7
+10,26,Female,Native Speaker,NMo_Voice,Voice,NMo,Human,6,5
+10,26,Female,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,3,3
+10,26,Female,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,6,5
+10,26,Female,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,6,6
+10,26,Female,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,6,6
+10,26,Female,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,2,1
+10,26,Female,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,2,1
+10,26,Female,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,5,5
+10,26,Female,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,6,6
+10,26,Female,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,4,3
+10,26,Female,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,3,3
+10,26,Female,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,6,6
+10,26,Female,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,4,3
+10,26,Female,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,6,5
+10,26,Female,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,3,3
+10,26,Female,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,6,6
+10,26,Female,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,6,6
+11,26,Male,Fluent,NId_TTS,TTS,NId,Human,2,2
+11,26,Male,Fluent,NId_TTS,TTS,NId,Human,1,1
+11,26,Male,Fluent,NId_Voice,Voice,NId,Human,4,4
+11,26,Male,Fluent,NId_Voice,Voice,NId,Human,5,3
+11,26,Male,Fluent,RL_TTS,TTS,RL,Human,2,3
+11,26,Male,Fluent,RL_TTS,TTS,RL,Human,1,1
+11,26,Male,Fluent,RL_Voice,Voice,RL,Human,3,3
+11,26,Male,Fluent,RL_Voice,Voice,RL,Human,6,4
+11,26,Male,Fluent,RN_TTS,TTS,RN,Human,1,1
+11,26,Male,Fluent,RN_TTS,TTS,RN,Human,1,2
+11,26,Male,Fluent,RN_Voice,Voice,RN,Human,3,4
+11,26,Male,Fluent,RN_Voice,Voice,RN,Human,4,3
+11,26,Male,Fluent,NMo_TTS,TTS,NMo,Human,3,4
+11,26,Male,Fluent,NMo_TTS,TTS,NMo,Human,1,1
+11,26,Male,Fluent,NMo_Voice,Voice,NMo,Human,4,3
+11,26,Male,Fluent,NMo_Voice,Voice,NMo,Human,7,7
+11,26,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,2,2
+11,26,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,2,2
+11,26,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,5,4
+11,26,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,6,5
+11,26,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,1,1
+11,26,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,1,1
+11,26,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,5,3
+11,26,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,3
+11,26,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,1,1
+11,26,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,2,1
+11,26,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,3,2
+11,26,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,5,4
+11,26,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,3,2
+11,26,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,3,4
+11,26,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,6,5
+11,26,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,6,5
+12,24,Male,Fluent,NId_TTS,TTS,NId,Human,3,2
+12,24,Male,Fluent,NId_TTS,TTS,NId,Human,2,3
+12,24,Male,Fluent,NId_Voice,Voice,NId,Human,3,2
+12,24,Male,Fluent,NId_Voice,Voice,NId,Human,4,2
+12,24,Male,Fluent,RL_TTS,TTS,RL,Human,1,1
+12,24,Male,Fluent,RL_TTS,TTS,RL,Human,3,2
+12,24,Male,Fluent,RL_Voice,Voice,RL,Human,5,5
+12,24,Male,Fluent,RL_Voice,Voice,RL,Human,2,2
+12,24,Male,Fluent,RN_TTS,TTS,RN,Human,2,1
+12,24,Male,Fluent,RN_TTS,TTS,RN,Human,1,1
+12,24,Male,Fluent,RN_Voice,Voice,RN,Human,5,5
+12,24,Male,Fluent,RN_Voice,Voice,RN,Human,5,3
+12,24,Male,Fluent,NMo_TTS,TTS,NMo,Human,3,1
+12,24,Male,Fluent,NMo_TTS,TTS,NMo,Human,3,3
+12,24,Male,Fluent,NMo_Voice,Voice,NMo,Human,5,5
+12,24,Male,Fluent,NMo_Voice,Voice,NMo,Human,5,5
+12,24,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,2,1
+12,24,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,1,1
+12,24,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,5,1
+12,24,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,5,2
+12,24,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,3,2
+12,24,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,5,1
+12,24,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,2
+12,24,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,1
+12,24,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,3,1
+12,24,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,5,1
+12,24,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,5,2
+12,24,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,3,2
+12,24,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,3,2
+12,24,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,5,2
+12,24,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,3,2
+12,24,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,6,2
+13,24,Male,Fluent,NId_TTS,TTS,NId,Human,2,2
+13,24,Male,Fluent,NId_TTS,TTS,NId,Human,1,3
+13,24,Male,Fluent,NId_Voice,Voice,NId,Human,6,7
+13,24,Male,Fluent,NId_Voice,Voice,NId,Human,6,6
+13,24,Male,Fluent,RL_TTS,TTS,RL,Human,1,1
+13,24,Male,Fluent,RL_TTS,TTS,RL,Human,1,2
+13,24,Male,Fluent,RL_Voice,Voice,RL,Human,4,5
+13,24,Male,Fluent,RL_Voice,Voice,RL,Human,4,3
+13,24,Male,Fluent,RN_TTS,TTS,RN,Human,2,2
+13,24,Male,Fluent,RN_TTS,TTS,RN,Human,1,2
+13,24,Male,Fluent,RN_Voice,Voice,RN,Human,5,6
+13,24,Male,Fluent,RN_Voice,Voice,RN,Human,6,6
+13,24,Male,Fluent,NMo_TTS,TTS,NMo,Human,3,3
+13,24,Male,Fluent,NMo_TTS,TTS,NMo,Human,1,2
+13,24,Male,Fluent,NMo_Voice,Voice,NMo,Human,7,7
+13,24,Male,Fluent,NMo_Voice,Voice,NMo,Human,6,5
+13,24,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,3,4
+13,24,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,2,3
+13,24,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,6,6
+13,24,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,6,6
+13,24,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,4,3
+13,24,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,2,3
+13,24,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,5,5
+13,24,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,4
+13,24,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,6,1
+13,24,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,3,1
+13,24,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,3,4
+13,24,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,6,7
+13,24,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,5,7
+13,24,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,5,6
+13,24,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,5,5
+13,24,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,6,6
+14,21,Female,Fluent,NId_TTS,TTS,NId,Human,3,2
+14,21,Female,Fluent,NId_TTS,TTS,NId,Human,3,1
+14,21,Female,Fluent,NId_Voice,Voice,NId,Human,4,3
+14,21,Female,Fluent,NId_Voice,Voice,NId,Human,3,4
+14,21,Female,Fluent,RL_TTS,TTS,RL,Human,4,1
+14,21,Female,Fluent,RL_TTS,TTS,RL,Human,2,2
+14,21,Female,Fluent,RL_Voice,Voice,RL,Human,4,5
+14,21,Female,Fluent,RL_Voice,Voice,RL,Human,3,4
+14,21,Female,Fluent,RN_TTS,TTS,RN,Human,3,1
+14,21,Female,Fluent,RN_TTS,TTS,RN,Human,1,1
+14,21,Female,Fluent,RN_Voice,Voice,RN,Human,4,2
+14,21,Female,Fluent,RN_Voice,Voice,RN,Human,4,2
+14,21,Female,Fluent,NMo_TTS,TTS,NMo,Human,3,3
+14,21,Female,Fluent,NMo_TTS,TTS,NMo,Human,3,2
+14,21,Female,Fluent,NMo_Voice,Voice,NMo,Human,5,3
+14,21,Female,Fluent,NMo_Voice,Voice,NMo,Human,3,1
+14,21,Female,Fluent,NId_TTS_Kyle,TTS,NId,Robot,4,1
+14,21,Female,Fluent,NId_TTS_Kyle,TTS,NId,Robot,3,1
+14,21,Female,Fluent,NId_Voice_Kyle,Voice,NId,Robot,5,6
+14,21,Female,Fluent,NId_Voice_Kyle,Voice,NId,Robot,5,4
+14,21,Female,Fluent,RL_TTS_Kyle,TTS,RL,Robot,3,1
+14,21,Female,Fluent,RL_TTS_Kyle,TTS,RL,Robot,2,1
+14,21,Female,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,5
+14,21,Female,Fluent,RL_Voice_Kyle,Voice,RL,Robot,4,3
+14,21,Female,Fluent,RN_TTS_Kyle,TTS,RN,Robot,1,1
+14,21,Female,Fluent,RN_TTS_Kyle,TTS,RN,Robot,1,1
+14,21,Female,Fluent,RN_Voice_Kyle,Voice,RN,Robot,3,6
+14,21,Female,Fluent,RN_Voice_Kyle,Voice,RN,Robot,4,5
+14,21,Female,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,3,3
+14,21,Female,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,3,1
+14,21,Female,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,3,5
+14,21,Female,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,3,2
+15,33,Male,Native Speaker,NId_TTS,TTS,NId,Human,3,1
+15,33,Male,Native Speaker,NId_TTS,TTS,NId,Human,3,2
+15,33,Male,Native Speaker,NId_Voice,Voice,NId,Human,5,5
+15,33,Male,Native Speaker,NId_Voice,Voice,NId,Human,5,3
+15,33,Male,Native Speaker,RL_TTS,TTS,RL,Human,3,2
+15,33,Male,Native Speaker,RL_TTS,TTS,RL,Human,3,2
+15,33,Male,Native Speaker,RL_Voice,Voice,RL,Human,4,3
+15,33,Male,Native Speaker,RL_Voice,Voice,RL,Human,3,2
+15,33,Male,Native Speaker,RN_TTS,TTS,RN,Human,4,3
+15,33,Male,Native Speaker,RN_TTS,TTS,RN,Human,3,1
+15,33,Male,Native Speaker,RN_Voice,Voice,RN,Human,4,3
+15,33,Male,Native Speaker,RN_Voice,Voice,RN,Human,6,5
+15,33,Male,Native Speaker,NMo_TTS,TTS,NMo,Human,5,7
+15,33,Male,Native Speaker,NMo_TTS,TTS,NMo,Human,5,6
+15,33,Male,Native Speaker,NMo_Voice,Voice,NMo,Human,6,7
+15,33,Male,Native Speaker,NMo_Voice,Voice,NMo,Human,6,7
+15,33,Male,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,6,7
+15,33,Male,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,5,6
+15,33,Male,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,6,6
+15,33,Male,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,6,7
+15,33,Male,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,6,6
+15,33,Male,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,5,3
+15,33,Male,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,6,6
+15,33,Male,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,5,2
+15,33,Male,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,3,2
+15,33,Male,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,5,2
+15,33,Male,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,7,7
+15,33,Male,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,6,3
+15,33,Male,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,6,7
+15,33,Male,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,6,6
+15,33,Male,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,6,5
+15,33,Male,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,6,7
+16,28,Male,Fluent,NId_TTS,TTS,NId,Human,1,2
+16,28,Male,Fluent,NId_TTS,TTS,NId,Human,2,2
+16,28,Male,Fluent,NId_Voice,Voice,NId,Human,4,5
+16,28,Male,Fluent,NId_Voice,Voice,NId,Human,3,4
+16,28,Male,Fluent,RL_TTS,TTS,RL,Human,1,2
+16,28,Male,Fluent,RL_TTS,TTS,RL,Human,1,2
+16,28,Male,Fluent,RL_Voice,Voice,RL,Human,3,2
+16,28,Male,Fluent,RL_Voice,Voice,RL,Human,4,3
+16,28,Male,Fluent,RN_TTS,TTS,RN,Human,1,1
+16,28,Male,Fluent,RN_TTS,TTS,RN,Human,1,2
+16,28,Male,Fluent,RN_Voice,Voice,RN,Human,2,3
+16,28,Male,Fluent,RN_Voice,Voice,RN,Human,4,2
+16,28,Male,Fluent,NMo_TTS,TTS,NMo,Human,2,5
+16,28,Male,Fluent,NMo_TTS,TTS,NMo,Human,2,5
+16,28,Male,Fluent,NMo_Voice,Voice,NMo,Human,6,6
+16,28,Male,Fluent,NMo_Voice,Voice,NMo,Human,6,6
+16,28,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,2,3
+16,28,Male,Fluent,NId_TTS_Kyle,TTS,NId,Robot,2,2
+16,28,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,4,3
+16,28,Male,Fluent,NId_Voice_Kyle,Voice,NId,Robot,4,5
+16,28,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,2,1
+16,28,Male,Fluent,RL_TTS_Kyle,TTS,RL,Robot,1,2
+16,28,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,2
+16,28,Male,Fluent,RL_Voice_Kyle,Voice,RL,Robot,4,3
+16,28,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,2,2
+16,28,Male,Fluent,RN_TTS_Kyle,TTS,RN,Robot,1,2
+16,28,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,4,3
+16,28,Male,Fluent,RN_Voice_Kyle,Voice,RN,Robot,3,2
+16,28,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,3,7
+16,28,Male,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,1,5
+16,28,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,7,7
+16,28,Male,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,7,7
+17,39,Female,Fluent,NId_TTS,TTS,NId,Human,3,1
+17,39,Female,Fluent,NId_TTS,TTS,NId,Human,3,1
+17,39,Female,Fluent,NId_Voice,Voice,NId,Human,2,3
+17,39,Female,Fluent,NId_Voice,Voice,NId,Human,4,3
+17,39,Female,Fluent,RL_TTS,TTS,RL,Human,4,2
+17,39,Female,Fluent,RL_TTS,TTS,RL,Human,2,2
+17,39,Female,Fluent,RL_Voice,Voice,RL,Human,3,5
+17,39,Female,Fluent,RL_Voice,Voice,RL,Human,3,1
+17,39,Female,Fluent,RN_TTS,TTS,RN,Human,3,1
+17,39,Female,Fluent,RN_TTS,TTS,RN,Human,3,1
+17,39,Female,Fluent,RN_Voice,Voice,RN,Human,3,2
+17,39,Female,Fluent,RN_Voice,Voice,RN,Human,5,5
+17,39,Female,Fluent,NMo_TTS,TTS,NMo,Human,5,6
+17,39,Female,Fluent,NMo_TTS,TTS,NMo,Human,6,7
+17,39,Female,Fluent,NMo_Voice,Voice,NMo,Human,5,5
+17,39,Female,Fluent,NMo_Voice,Voice,NMo,Human,3,5
+17,39,Female,Fluent,NId_TTS_Kyle,TTS,NId,Robot,5,6
+17,39,Female,Fluent,NId_TTS_Kyle,TTS,NId,Robot,4,3
+17,39,Female,Fluent,NId_Voice_Kyle,Voice,NId,Robot,4,4
+17,39,Female,Fluent,NId_Voice_Kyle,Voice,NId,Robot,4,3
+17,39,Female,Fluent,RL_TTS_Kyle,TTS,RL,Robot,2,1
+17,39,Female,Fluent,RL_TTS_Kyle,TTS,RL,Robot,2,1
+17,39,Female,Fluent,RL_Voice_Kyle,Voice,RL,Robot,3,1
+17,39,Female,Fluent,RL_Voice_Kyle,Voice,RL,Robot,6,5
+17,39,Female,Fluent,RN_TTS_Kyle,TTS,RN,Robot,5,3
+17,39,Female,Fluent,RN_TTS_Kyle,TTS,RN,Robot,3,2
+17,39,Female,Fluent,RN_Voice_Kyle,Voice,RN,Robot,5,4
+17,39,Female,Fluent,RN_Voice_Kyle,Voice,RN,Robot,5,4
+17,39,Female,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,4,5
+17,39,Female,Fluent,NMo_TTS_Kyle,TTS,NMo,Robot,4,3
+17,39,Female,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,5,6
+17,39,Female,Fluent,NMo_Voice_Kyle,Voice,NMo,Robot,5,6
+18,54,Female,Native Speaker,NId_TTS,TTS,NId,Human,3,4
+18,54,Female,Native Speaker,NId_TTS,TTS,NId,Human,2,3
+18,54,Female,Native Speaker,NId_Voice,Voice,NId,Human,4,3
+18,54,Female,Native Speaker,NId_Voice,Voice,NId,Human,5,4
+18,54,Female,Native Speaker,RL_TTS,TTS,RL,Human,2,3
+18,54,Female,Native Speaker,RL_TTS,TTS,RL,Human,4,4
+18,54,Female,Native Speaker,RL_Voice,Voice,RL,Human,3,3
+18,54,Female,Native Speaker,RL_Voice,Voice,RL,Human,5,5
+18,54,Female,Native Speaker,RN_TTS,TTS,RN,Human,4,4
+18,54,Female,Native Speaker,RN_TTS,TTS,RN,Human,3,3
+18,54,Female,Native Speaker,RN_Voice,Voice,RN,Human,5,5
+18,54,Female,Native Speaker,RN_Voice,Voice,RN,Human,5,5
+18,54,Female,Native Speaker,NMo_TTS,TTS,NMo,Human,3,5
+18,54,Female,Native Speaker,NMo_TTS,TTS,NMo,Human,2,2
+18,54,Female,Native Speaker,NMo_Voice,Voice,NMo,Human,5,4
+18,54,Female,Native Speaker,NMo_Voice,Voice,NMo,Human,5,5
+18,54,Female,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,4,5
+18,54,Female,Native Speaker,NId_TTS_Kyle,TTS,NId,Robot,3,3
+18,54,Female,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,5,5
+18,54,Female,Native Speaker,NId_Voice_Kyle,Voice,NId,Robot,5,5
+18,54,Female,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,4,4
+18,54,Female,Native Speaker,RL_TTS_Kyle,TTS,RL,Robot,2,3
+18,54,Female,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,5,5
+18,54,Female,Native Speaker,RL_Voice_Kyle,Voice,RL,Robot,5,5
+18,54,Female,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,4,5
+18,54,Female,Native Speaker,RN_TTS_Kyle,TTS,RN,Robot,5,4
+18,54,Female,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,5,3
+18,54,Female,Native Speaker,RN_Voice_Kyle,Voice,RN,Robot,6,5
+18,54,Female,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,2,3
+18,54,Female,Native Speaker,NMo_TTS_Kyle,TTS,NMo,Robot,4,5
+18,54,Female,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,5,5
+18,54,Female,Native Speaker,NMo_Voice_Kyle,Voice,NMo,Robot,5,5
+19,23,Female,Good,NId_TTS,TTS,NId,Human,4,3
+19,23,Female,Good,NId_TTS,TTS,NId,Human,2,3
+19,23,Female,Good,NId_Voice,Voice,NId,Human,5,5
+19,23,Female,Good,NId_Voice,Voice,NId,Human,6,6
+19,23,Female,Good,RL_TTS,TTS,RL,Human,2,2
+19,23,Female,Good,RL_TTS,TTS,RL,Human,3,3
+19,23,Female,Good,RL_Voice,Voice,RL,Human,4,3
+19,23,Female,Good,RL_Voice,Voice,RL,Human,3,4
+19,23,Female,Good,RN_TTS,TTS,RN,Human,2,2
+19,23,Female,Good,RN_TTS,TTS,RN,Human,3,3
+19,23,Female,Good,RN_Voice,Voice,RN,Human,5,5
+19,23,Female,Good,RN_Voice,Voice,RN,Human,4,5
+19,23,Female,Good,NMo_TTS,TTS,NMo,Human,3,4
+19,23,Female,Good,NMo_TTS,TTS,NMo,Human,3,3
+19,23,Female,Good,NMo_Voice,Voice,NMo,Human,5,6
+19,23,Female,Good,NMo_Voice,Voice,NMo,Human,6,6
+19,23,Female,Good,NId_TTS_Kyle,TTS,NId,Robot,3,3
+19,23,Female,Good,NId_TTS_Kyle,TTS,NId,Robot,2,2
+19,23,Female,Good,NId_Voice_Kyle,Voice,NId,Robot,4,3
+19,23,Female,Good,NId_Voice_Kyle,Voice,NId,Robot,5,3
+19,23,Female,Good,RL_TTS_Kyle,TTS,RL,Robot,1,1
+19,23,Female,Good,RL_TTS_Kyle,TTS,RL,Robot,2,2
+19,23,Female,Good,RL_Voice_Kyle,Voice,RL,Robot,3,3
+19,23,Female,Good,RL_Voice_Kyle,Voice,RL,Robot,3,4
+19,23,Female,Good,RN_TTS_Kyle,TTS,RN,Robot,2,3
+19,23,Female,Good,RN_TTS_Kyle,TTS,RN,Robot,1,2
+19,23,Female,Good,RN_Voice_Kyle,Voice,RN,Robot,4,4
+19,23,Female,Good,RN_Voice_Kyle,Voice,RN,Robot,5,4
+19,23,Female,Good,NMo_TTS_Kyle,TTS,NMo,Robot,2,2
+19,23,Female,Good,NMo_TTS_Kyle,TTS,NMo,Robot,2,2
+19,23,Female,Good,NMo_Voice_Kyle,Voice,NMo,Robot,3,2
+19,23,Female,Good,NMo_Voice_Kyle,Voice,NMo,Robot,3,4
+20,21,Male,Very good,NId_TTS,TTS,NId,Human,4,3
+20,21,Male,Very good,NId_TTS,TTS,NId,Human,3,2
+20,21,Male,Very good,NId_Voice,Voice,NId,Human,3,3
+20,21,Male,Very good,NId_Voice,Voice,NId,Human,3,2
+20,21,Male,Very good,RL_TTS,TTS,RL,Human,2,1
+20,21,Male,Very good,RL_TTS,TTS,RL,Human,1,2
+20,21,Male,Very good,RL_Voice,Voice,RL,Human,5,4
+20,21,Male,Very good,RL_Voice,Voice,RL,Human,5,4
+20,21,Male,Very good,RN_TTS,TTS,RN,Human,2,3
+20,21,Male,Very good,RN_TTS,TTS,RN,Human,3,2
+20,21,Male,Very good,RN_Voice,Voice,RN,Human,3,3
+20,21,Male,Very good,RN_Voice,Voice,RN,Human,5,4
+20,21,Male,Very good,NMo_TTS,TTS,NMo,Human,2,4
+20,21,Male,Very good,NMo_TTS,TTS,NMo,Human,5,4
+20,21,Male,Very good,NMo_Voice,Voice,NMo,Human,4,4
+20,21,Male,Very good,NMo_Voice,Voice,NMo,Human,5,4
+20,21,Male,Very good,NId_TTS_Kyle,TTS,NId,Robot,3,3
+20,21,Male,Very good,NId_TTS_Kyle,TTS,NId,Robot,3,2
+20,21,Male,Very good,NId_Voice_Kyle,Voice,NId,Robot,5,4
+20,21,Male,Very good,NId_Voice_Kyle,Voice,NId,Robot,4,4
+20,21,Male,Very good,RL_TTS_Kyle,TTS,RL,Robot,2,2
+20,21,Male,Very good,RL_TTS_Kyle,TTS,RL,Robot,4,3
+20,21,Male,Very good,RL_Voice_Kyle,Voice,RL,Robot,3,3
+20,21,Male,Very good,RL_Voice_Kyle,Voice,RL,Robot,5,5
+20,21,Male,Very good,RN_TTS_Kyle,TTS,RN,Robot,3,3
+20,21,Male,Very good,RN_TTS_Kyle,TTS,RN,Robot,4,3
+20,21,Male,Very good,RN_Voice_Kyle,Voice,RN,Robot,5,4
+20,21,Male,Very good,RN_Voice_Kyle,Voice,RN,Robot,6,5
+20,21,Male,Very good,NMo_TTS_Kyle,TTS,NMo,Robot,5,5
+20,21,Male,Very good,NMo_TTS_Kyle,TTS,NMo,Robot,4,5
+20,21,Male,Very good,NMo_Voice_Kyle,Voice,NMo,Robot,6,6
+20,21,Male,Very good,NMo_Voice_Kyle,Voice,NMo,Robot,7,6
